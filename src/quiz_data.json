@@ -1,0 +1,34 @@
+{
+  "quiz_questions": [
+    {
+      "id": 1,
+      "instruction_text": "How many continents are there on Planet Earth?",
+      "answer_options": ["5", "6", "7", "8"],
+      "answer": "7"
+    },
+    {
+      "id": 2,
+      "instruction_text": "What's your favorite number?",
+      "answer_options": ["1", "2", "3", "4"],
+      "answer": "4"
+    },
+    {
+      "id": 3,
+      "instruction_text": "Who is the president of india?",
+      "answer_options": ["Sharukh khan", "Narendra Modi", "Mahatma Gandhi", "Ram Nath Kovind"],
+      "answer": "Ram Nath Kovind"
+    },
+    {
+      "id": 4,
+      "instruction_text": "Who is the winner of US Open 2019 Men's title?",
+      "answer_options": ["Roger Federer", "Rafael Nadal", "Daniil Medvedev ", "Novak Djokovic"],
+      "answer": "Rafael Nadal"
+    },
+    {
+      "id": 2,
+      "instruction_text": "Which of the following is not fit in the match?",
+      "answer_options": ["French Open", "US Open", "Australian Open", "Cincinnati Masters"],
+      "answer": "Cincinnati Masters"
+    }
+  ]
+}
